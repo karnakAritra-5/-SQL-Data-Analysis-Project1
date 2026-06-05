@@ -1,7 +1,8 @@
 # -SQL-Data-Analysis-Project1
 This is a basic data analysis project for sales which contains business related queries and Q/A. The goal was to understand business queries deeply and derive insights from raw data. <br><br>
-<b>The problems are given below:<b> <small>
--- My Analysis & Findings<br>
+<b>The problems are given below:</b> 
+<br><small>
+-- My Analysis & Findings<br><br>
 -- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05 <br>
 -- Q.2 Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov- 2022<br>
 -- Q.3 Write a SQL query to calculate the total sales (total_sale) for each category.<br>
