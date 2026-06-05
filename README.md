@@ -4,11 +4,9 @@ This is a basic data analysis project for sales which contains business related 
 
 The problems are given below:
 -- My Analysis & Findings<br>
--- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05
-
--- Q.2 Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-     2022
-
--- Q.3 Write a SQL query to calculate the total sales (total_sale) for each category.
+-- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05 <br>
+-- Q.2 Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov- 2022<br>
+-- Q.3 Write a SQL query to calculate the total sales (total_sale) for each category.<br>
 
 -- Q.4 Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
 
